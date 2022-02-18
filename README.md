@@ -1,0 +1,1 @@
+"## EFCore Training/Test project" 
