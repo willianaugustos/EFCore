@@ -59,3 +59,4 @@ C:\Users\WilliamSeverino\Projetos\EFCore\api\obj\Debug\net6.0\refint\api.dll
 C:\Users\WilliamSeverino\Projetos\EFCore\api\obj\Debug\net6.0\api.pdb
 C:\Users\WilliamSeverino\Projetos\EFCore\api\obj\Debug\net6.0\api.genruntimeconfig.cache
 C:\Users\WilliamSeverino\Projetos\EFCore\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\WilliamSeverino\Projetos\EFCore\api\bin\Debug\net6.0\Newtonsoft.Json.dll
